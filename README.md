@@ -19,7 +19,14 @@ and 150 instance.
 * Line Plot
 * Ploting without line
 * Dotted line
-**  Line color
+**  Line color, Line width, 
+* Multiple lines
+* Plotting with markers
+   - Circle 'o'
+   - Star '*'
+   - Point '.'
+   - Pixel ','
+   - 
 
 
 # Summary
