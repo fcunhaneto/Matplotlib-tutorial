@@ -19,14 +19,63 @@ and 150 instance.
 * Line Plot
 * Ploting without line
 * Dotted line
-**  Line color, Line width, 
+   -  Line color
+   -   Line width 
 * Multiple lines
 * Plotting with markers
    - Circle 'o'
    - Star '*'
    - Point '.'
    - Pixel ','
-   - 
+   - X 'x'
+   - X (filled) 'X'
+   - Plus '+'
+   - Plus (filled) 'P'
+   - Square 's'
+   - Diamond 'D'
+   - Diamond(thin) 'd'
+   - Pentagon 'p'
+   - Hexagon 'H'
+   - Hexagon 'h'
+   - Triangle down 'v'
+   - Triangle up '^'
+   - Triangle left '<'
+   - Triangle right '>'
+   - Tri down '1'
+   - Tri up '2'
+   - Tri left '3'
+   - Tri right '4'
+   - Vline '|'
+   - Hline '_'
+   - Solid line '-'
+   - Dotted line ':'
+   - Dashed line '--'
+   - Dashed/Dotted line '-.'
+ * Marker with line color (Red)
+   - Marker with line colour (green)
+   - Colour list
+   - Marker size
+   - Marker colour : EDGE color 
+   - Marker FACE color 
+   - Edge, Face
+ * Plotting with Title
+ * Plotting with Lables
+ * Setting Font and position for Title
+ * Grid
+   - Grid on X-axis
+   - Grid on Y-axis
+   - Grid with line properties
+ * Sub Plots
+ * Scatter plot
+ * Two plots on same figure
+ * Setting color for markers
+ * Color map
+ * Bar plots
+   - Horizontal bars
+   - Color Bars
+   - Setting Bar width
+ * Histogram
+ * Pie Charts
 
 
 # Summary
