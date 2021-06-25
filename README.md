@@ -80,3 +80,4 @@ and 150 instance.
 
 # Summary
 
+All the above mentioned ploting and graphing operations are performed over here. 
